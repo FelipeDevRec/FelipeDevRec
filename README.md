@@ -1,12 +1,12 @@
-# Hello! I'm Felipe Alves
+# 💻 Hello! I'm Felipe Alves
 
-**` 💻 Desenvolvedor | 🚀 Entusiasta de tecnologia | 🌍 Sempre aprendendo `**
+**`  Desenvolvedor |  Entusiasta de tecnologia | Sempre aprendendo `**
 
 I'm 27 years old and currently studying Software Engineering at Jala University and Systems Analysis and Development at Unigrande. #BackendLover
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
@@ -29,7 +29,7 @@ I'm 27 years old and currently studying Software Engineering at Jala University 
 
 ---
 
-### 🛠️ Tech Stacks
+### Tech Stacks
 
 <img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -48,6 +48,6 @@ I'm 27 years old and currently studying Software Engineering at Jala University 
 
 ---
 
-### 📈 Visitantes
+### Visitantes
 
 ![Visitors](https://komarev.com/ghpvc/?username=FelipeDevRec&label=Profile%20views&color=blue&style=flat)
