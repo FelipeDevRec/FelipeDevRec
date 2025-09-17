@@ -1,6 +1,8 @@
-# I'm Felipe Alves
+# Hello! I'm Felipe Alves
 
 **` 💻 Desenvolvedor | 🚀 Entusiasta de tecnologia | 🌍 Sempre aprendendo `**
+
+I'm 27 years old and currently studying Software Engineering at Jala University and Systems Analysis and Development at Unigrande. #BackendLover
 
 ---
 
