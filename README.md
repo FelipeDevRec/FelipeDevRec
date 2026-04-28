@@ -8,7 +8,7 @@
 ---
 ### About Me
 
-- I'm 27 years old and currently studying Software Engineering at Jala University and Systems Analysis and Development at Unigrande. #BackendLover
+- I'm 28 years old and currently studying Software Engineering at Jala University and Systems Analysis and Development at Unigrande. #BackendLover
 - Open to opportunities — let's connect!
 
 ---
