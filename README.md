@@ -5,6 +5,10 @@
   <strong>Currently studying at <a href="https://jala.university/">Jala University</a></strong>
 </p>
 
+<p align="center">
+  👉 <a href="https://felipedevrec.github.io/Portifolio/" target="_blank"><strong>Visite meu portfólio</strong></a> 👈
+</p>
+
 ---
 ### About Me
 
